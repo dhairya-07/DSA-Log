@@ -1,10 +1,9 @@
-package DSA.Searching.Medium;//package Searching.Easy;
+package DSA.Searching.Medium;
 
-
-public class SearchinRotatedArray {
+public class Problem3 {
     public static void main(String[] args) {
-        int[] nums = {2,1,2,2,2};
-        int ans = search(nums, 2);
+        int[] nums = {2,5,6,0,0,1,2};
+        int ans = search(nums, 3);
         System.out.println(ans);
     }
 
