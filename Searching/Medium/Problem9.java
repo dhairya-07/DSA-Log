@@ -1,6 +1,6 @@
 package DSA.Searching.Medium;
 
-public class Problem8 {
+public class Problem9 {
     public static void main(String[] args) {
         System.out.println(maxValue(3, 0, 815094800));
     }
